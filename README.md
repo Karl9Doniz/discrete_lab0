@@ -1,4 +1,4 @@
-# discrete_lab0
+# Discrete Laboratory work #1
 
 `Task #1:`
 
@@ -38,9 +38,12 @@ And that's graphic that shows time of Prim and Kruskal algorithms on different n
 For a graph with V vertices E edges, Kruskal's algorithm runs in O(E log V) time and Prim's algorithm can run in O(E + V log V) time.
 The main difference is because in Kruskal algorithm we firstly sort the edges, so with small amount of edges or if they are already sorted (or can be sorted in linear time), it will be effective.**
 
-- Now let's compare our Kruskal algorithm with the built-in one:
 
 
-- And compare our Prim algorithm with the built-in one:
+`Task #2:`
+
+In this task we will compare our Bellman-Forn and Froyd-Worshall algorithms with the built-in ones.
+
+
 
 
