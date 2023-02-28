@@ -50,3 +50,5 @@ This plot shows time of running our and built-in **Floyd-Warshall algorithm**.
 
 We may see that with number of nodes from 10 to 300 our algorithm is running faster, than built-in.
 
+As there are three main loops, each containing n iterations, the time complexity of this algorithm will be O(n^2).
+
