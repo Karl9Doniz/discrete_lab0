@@ -47,4 +47,5 @@ In this task we will compare our Bellman-Forn and Froyd-Worshall algorithms with
 This plot shows time of running our and built-in Floyd-Warshall algorithm.
 ![](https://drive.google.com/uc?export=view&amp;id=1kIfn1CmpPf-4sbKhJ88Hylqskm5DAwjCCavE6ijaoJs)
 
+We may see that from 
 
