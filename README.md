@@ -45,7 +45,7 @@ The main difference is because in Kruskal algorithm we firstly sort the edges, s
 In this task we will compare our Bellman-Forn and Froyd-Worshall algorithms with the built-in ones.
 
 This plot shows time of running our and built-in Floyd-Warshall algorithm.
-![](https://drive.google.com/uc?export=view&amp;id=1kIfn1CmpPf-4sbKhJ88Hylqskm5DAwjCCavE6ijaoJs)
+![](https://drive.google.com/uc?export=view&amp;id=12cfMhp5Pqa6PcYipOZ8wGlFHpKTaM0Yp)
 
-We may see that from 
+We may see that with number of nodes from 10 to 300 our algorithm is running faster, than built-in.
 
