@@ -49,6 +49,8 @@ In this task we will compare our Bellman-Ford and Froyd-Worshall algorithms with
 
 This plot shows time of running our and built-in **Floyd-Warshall algorithm**.
 
+https://github.com/Karl9Doniz/discrete_lab0/blob/main/task_1/task_1.2/floyd_warshall.py
+
 ![](https://drive.google.com/uc?export=view&amp;id=12cfMhp5Pqa6PcYipOZ8wGlFHpKTaM0Yp)
 
 We may see that with number of nodes from 10 to 300 our algorithm is running faster, than built-in.
@@ -57,6 +59,8 @@ As there are three main loops, each containing n iterations, the time complexity
 
 Comparing a built-in and custom implementations of **Bellman-Ford** algorithm, it can easily be seen that 
 custom is much faster, according to the graph below:
+
+https://github.com/Karl9Doniz/discrete_lab0/blob/main/task_1/task_1.2/bellman-ford.ipynb
 
 <img width="1655" alt="Screenshot 2023-02-28 at 19 59 42" src="https://user-images.githubusercontent.com/44242769/221955483-9fab2973-9d97-4e3d-8ba8-aa0d4c35255d.png">
 
