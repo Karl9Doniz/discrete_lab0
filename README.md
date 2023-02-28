@@ -1,6 +1,6 @@
 # Discrete Laboratory work #1
 
-`Task #1:`
+`Task #1.1:`
 
 In this task we will compare Prim and Kruskal algorithms and them with the built-in one.
 
@@ -40,9 +40,9 @@ The main difference is because in Kruskal algorithm we firstly sort the edges, s
 
 
 
-`Task #2:`
+`Task #1.2:`
 
-In this task we will compare our Bellman-Forn and Froyd-Worshall algorithms with the built-in ones.
+In this task we will compare our Bellman-Ford and Froyd-Worshall algorithms with the built-in ones.
 
 This plot shows time of running our and built-in **Floyd-Warshall algorithm**.
 
@@ -52,3 +52,9 @@ We may see that with number of nodes from 10 to 300 our algorithm is running fas
 
 As there are three main loops, each containing n iterations, the time complexity of this algorithm will be O(n^2).
 
+Comparing a built-in and custom implementations of **Bellman-Ford** algorithm, it can easily be seen that 
+custom is much faster, according to the graph below:
+
+<img width="1655" alt="Screenshot 2023-02-28 at 19 59 42" src="https://user-images.githubusercontent.com/44242769/221955483-9fab2973-9d97-4e3d-8ba8-aa0d4c35255d.png">
+
+The time complexity of Bellman-Ford algorithm is O(VxE), where E - number of edges, V - number of vertices.
