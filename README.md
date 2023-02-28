@@ -4,9 +4,10 @@ Work was done by Team 9: Агітольєв Андрій та Сумик Мар�
 
 `Task #1.1:`
 
-In this task we will compare Prim and Kruskal algorithms and them with the built-in one.
+In this task we will compare Prim and Kruskal algorithms.
 
 - So let's first compare Prim and Kruskal algorithms:
+https://github.com/Karl9Doniz/discrete_lab0/blob/main/task_1/task_1.1/kruskal_prim.py
 
 1. 20 nodes:
 
