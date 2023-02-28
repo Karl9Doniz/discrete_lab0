@@ -1,5 +1,7 @@
 # Discrete Laboratory work #1
 
+Work was done by Team 9: Агітольєв Андрій та Сумик Марта
+
 `Task #1.1:`
 
 In this task we will compare Prim and Kruskal algorithms and them with the built-in one.
